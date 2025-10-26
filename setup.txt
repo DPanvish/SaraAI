@@ -1,0 +1,8 @@
+Backend
+
+1) "npm init" Initialize the package.json
+2) Install all required packages "npm i express mongoose dotenv nodemon jsonwebtoken bcryptjs cookie-parser cloudinary multer"
+3) add this script in package.json
+"scripts": {
+    "dev": "nodemon index.js"
+}
